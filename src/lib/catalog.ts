@@ -129,11 +129,19 @@ async function loadCatalog(): Promise<CatalogData> {
 
 /**
  * Cache dengan tag: dihitung sekali, lalu dipakai ulang sampai halaman admin
- * memanggil revalidateTag(CATALOG_TAG). Tanpa ini setiap kunjungan akan
- * membaca penyimpanan dan menyusun ulang teks pencarian semua produk.
+ * menyimpan sesuatu (updateTag). Tanpa ini setiap kunjungan akan membaca
+ * penyimpanan dan menyusun ulang teks pencarian semua produk.
+ *
+ * `revalidate` adalah jaring pengaman, bukan jalur utama. Saat build berjalan
+ * di server Netlify, penyimpanan admin bisa saja belum terbaca — tanpa batas
+ * waktu ini, halaman hasil build akan bertahan tanpa produk buatan sendiri
+ * sampai ada penyimpanan berikutnya dari admin.
  */
+const SAFETY_REVALIDATE_SECONDS = 300;
+
 export const getCatalog = unstable_cache(loadCatalog, ['catalog-v1'], {
   tags: [CATALOG_TAG],
+  revalidate: SAFETY_REVALIDATE_SECONDS,
 });
 
 export async function getProductBySlug(slug: string): Promise<Product | undefined> {

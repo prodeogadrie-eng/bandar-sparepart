@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
+import { Fragment } from 'react';
 import { redirect } from 'next/navigation';
-import { adminConfigured, isLoggedIn } from '@/lib/auth';
+import { adminConfigured, envDiagnostics, isLoggedIn } from '@/lib/auth';
 import { Logo } from '@/components/Logo';
 import { LoginForm } from './LoginForm';
 
@@ -44,6 +45,25 @@ export default async function LoginPage() {
             <pre className="mt-2 overflow-x-auto rounded-lg bg-ink px-3 py-2 font-mono text-xs text-white">
               ADMIN_PASSWORD=passwordpilihanmu
             </pre>
+
+            <details className="mt-4">
+              <summary className="cursor-pointer text-xs font-semibold text-ink/70">
+                Sudah diisi tapi masih muncul pesan ini?
+              </summary>
+              <dl className="mt-2 grid grid-cols-[auto_1fr] gap-x-3 gap-y-1 font-mono text-[11px] text-ink/80">
+                {Object.entries(envDiagnostics()).map(([key, value]) => (
+                  <Fragment key={key}>
+                    <dt>{key}</dt>
+                    <dd>{value}</dd>
+                  </Fragment>
+                ))}
+              </dl>
+              <p className="mt-2 text-xs leading-relaxed text-ink/70">
+                Hanya menampilkan ada/tidaknya, tidak pernah isinya. Kalau variabel lain
+                terbaca tapi ADMIN_PASSWORD tidak, biasanya variabelnya ditandai
+                &ldquo;secret&rdquo; di Netlify — matikan tanda itu, lalu deploy ulang.
+              </p>
+            </details>
           </div>
         )}
 

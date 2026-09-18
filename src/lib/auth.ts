@@ -67,6 +67,21 @@ export async function isLoggedIn(): Promise<boolean> {
   return token ? tokenValid(token, key) : false;
 }
 
+/**
+ * Membantu menemukan sebab kalau ADMIN_PASSWORD sudah diisi di Netlify tapi
+ * fungsi server tidak melihatnya. Hanya melaporkan ADA/TIDAK dan jumlah —
+ * tidak pernah menampilkan nilai environment variable mana pun.
+ */
+export function envDiagnostics(): Record<string, string> {
+  const ada = (key: string) => (process.env[key] ? 'terbaca' : 'tidak terbaca');
+  return {
+    ADMIN_PASSWORD: ada('ADMIN_PASSWORD'),
+    NODE_VERSION: ada('NODE_VERSION'),
+    NETLIFY: ada('NETLIFY'),
+    'jumlah variable': String(Object.keys(process.env).length),
+  };
+}
+
 export type LoginResult = { ok: true } | { ok: false; error: string };
 
 export async function login(submitted: string): Promise<LoginResult> {

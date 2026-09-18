@@ -74,11 +74,22 @@ export async function isLoggedIn(): Promise<boolean> {
  */
 export function envDiagnostics(): Record<string, string> {
   const ada = (key: string) => (process.env[key] ? 'terbaca' : 'tidak terbaca');
+
+  // Nama variable saja, tidak pernah nilainya. Yang namanya berbau rahasia
+  // ikut disamarkan supaya tidak membocorkan apa pun lewat nama.
+  const rahasia = /SECRET|TOKEN|KEY|PASSWORD|CREDENTIAL|SIGNATURE/i;
+  const nama = Object.keys(process.env)
+    .map((k) => (rahasia.test(k) ? k.replace(/[A-Za-z0-9]/g, '*') : k))
+    .sort()
+    .join(', ');
+
   return {
     ADMIN_PASSWORD: ada('ADMIN_PASSWORD'),
     NODE_VERSION: ada('NODE_VERSION'),
     NETLIFY: ada('NETLIFY'),
+    'akses statis': process.env.ADMIN_PASSWORD ? 'terbaca' : 'tidak terbaca',
     'jumlah variable': String(Object.keys(process.env).length),
+    'daftar nama': nama,
   };
 }
 

@@ -1,0 +1,18 @@
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+# Runtime resmi Next.js untuk Netlify: menangani routing, prerender,
+# dan optimasi next/image lewat Netlify Image CDN.
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+# Gambar produk & favicon tidak pernah berubah isinya untuk nama file yang sama,
+# jadi aman di-cache lama.
+[[headers]]
+  for = "/produk/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"

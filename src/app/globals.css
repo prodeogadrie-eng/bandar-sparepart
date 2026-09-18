@@ -1,0 +1,82 @@
+@import 'tailwindcss';
+
+/* Nilai default; ditimpa dari site.config.ts lewat <html style=...> di layout. */
+:root {
+  --brand: #0e6b55;
+  --brand-dark: #0a5342;
+  --brand-soft: #e8f3ef;
+  --accent: #f26a05;
+  --accent-soft: #fff1e3;
+  --ink: #111c1e;
+  --muted: #5c6b6a;
+  --line: #dce5e2;
+  --surface: #ffffff;
+  --page: #f5f8f6;
+  --wa: #25d366;
+}
+
+@theme inline {
+  --color-brand: var(--brand);
+  --color-brand-dark: var(--brand-dark);
+  --color-brand-soft: var(--brand-soft);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-surface: var(--surface);
+  --color-page: var(--page);
+  --color-wa: var(--wa);
+
+  --font-sans:
+    ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', sans-serif;
+}
+
+@layer base {
+  html {
+    color-scheme: light;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    background-color: var(--page);
+    color: var(--ink);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  ::selection {
+    background-color: var(--brand);
+    color: #fff;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--brand);
+    outline-offset: 2px;
+  }
+}
+
+@layer components {
+  .container-page {
+    width: 100%;
+    max-width: 80rem;
+    margin-inline: auto;
+    padding-inline: 1rem;
+  }
+
+  @media (min-width: 640px) {
+    .container-page {
+      padding-inline: 1.5rem;
+    }
+  }
+
+  /* Sembunyikan scrollbar pada baris chip kategori yang bisa digeser. */
+  .no-scrollbar {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+}

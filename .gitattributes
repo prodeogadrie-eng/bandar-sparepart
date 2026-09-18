@@ -1,0 +1,12 @@
+# Build berjalan di Linux (Netlify), sedangkan pengembangan di Windows.
+# Simpan semua teks dengan akhir baris LF di repo supaya tidak ada diff palsu
+# dan hasil build selalu sama.
+* text=auto eol=lf
+
+# File biner jangan diutak-atik akhir barisnya.
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.webp binary
+*.ico binary
+*.xlsx binary

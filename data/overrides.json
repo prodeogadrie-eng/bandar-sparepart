@@ -1,0 +1,39 @@
+{
+  "_petunjuk": [
+    "File ini TIDAK PERNAH ditimpa oleh `npm run import`.",
+    "Isinya ditempelkan di atas data hasil import, jadi editanmu selalu menang.",
+    "Kunci produk boleh pakai slug (contoh: 'turbocharger-holset-hx50w') atau Kode Produk Shopee (contoh: '50617531214').",
+    "Kode Produk lebih aman: slug ikut berubah kalau nama produk diganti di Shopee.",
+    "Semua kunci yang diawali garis bawah (_) diabaikan, jadi blok _contoh di bawah tidak berpengaruh apa-apa.",
+    "Setelah mengedit: `npm run build` (atau `npm run dev` untuk lihat langsung)."
+  ],
+
+  "_contoh": {
+    "products": {
+      "turbocharger-holset-hx50w": {
+        "name": "Turbocharger Holset HX50W (Sinotruk HOWO)",
+        "price": 5750000,
+        "stock": 8,
+        "description": "Tulis ulang deskripsinya di sini.\nBaris baru jadi paragraf.\n- Baris berawalan strip jadi poin",
+        "featured": true
+      },
+      "12238436622": {
+        "hidden": true,
+        "_alasan": "contoh: sembunyikan produk yang tidak cocok dengan toko"
+      },
+      "dekrup-sany-skt90-pressure-plate": {
+        "categorySlug": "drivetrain-transmission-clutches",
+        "images": ["/produk/foto-punya-sendiri.jpg"]
+      }
+    },
+    "categories": {
+      "drivetrain-transmission-clutches": { "name": "Kopling & Transmisi" },
+      "engine-parts": { "name": "Part Mesin" },
+      "mobile-phones": { "hidden": true }
+    }
+  },
+
+  "products": {},
+
+  "categories": {}
+}

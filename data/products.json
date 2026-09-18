@@ -1,0 +1,502 @@
+{
+  "generatedAt": "2026-09-18T06:27:45.833Z",
+  "source": {
+    "files": [
+      "mass_republish_items_5827332_20260908140331.xlsx",
+      "mass_update_basic_info_5827332_20260908140230.xlsx",
+      "mass_update_dts_info_5827332_20260908140339.xlsx",
+      "mass_update_media_info_5827332_20260908140346.xlsx",
+      "mass_update_sales_info_5827332_20260908140311.xlsx",
+      "mass_update_shipping_info_5827332_20260908140318.xlsx"
+    ],
+    "rows": 51
+  },
+  "categories": [
+    {
+      "slug": "drivetrain-transmission-clutches",
+      "name": "Drivetrain, Transmission & Clutches",
+      "count": 3
+    },
+    {
+      "slug": "engine-parts",
+      "name": "Engine Parts",
+      "count": 3
+    },
+    {
+      "slug": "air-pumps-parts-accessories",
+      "name": "Air Pumps, Parts & Accessories",
+      "count": 1
+    },
+    {
+      "slug": "automobile-spare-parts",
+      "name": "Automobile Spare Parts",
+      "count": 1
+    },
+    {
+      "slug": "electrical-circuitry-parts",
+      "name": "Electrical Circuitry & Parts",
+      "count": 1
+    },
+    {
+      "slug": "mobile-phones",
+      "name": "Mobile Phones",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "id": "26681875218",
+      "slug": "controller-sk200-10-yn22e00694f5",
+      "name": "Controller SK200-10 YN22E00694F5",
+      "sku": "",
+      "description": "Controller untuk Kobelco SK200-10\n\nSilahkan chat kami terlebih dahulu karena produk bisa jadi ready atau jika tidak ready maka harus dipesan dahulu.",
+      "excerpt": "Controller untuk Kobelco SK200-10 Silahkan chat kami terlebih dahulu karena produk bisa jadi ready atau jika tidak ready maka harus dipesan dahulu.",
+      "price": 13650000,
+      "priceMax": 13650000,
+      "hasPriceRange": false,
+      "stock": 1,
+      "inStock": true,
+      "category": {
+        "id": "100220",
+        "name": "Electrical Circuitry & Parts",
+        "slug": "electrical-circuitry-parts",
+        "path": [
+          "Home Appliances",
+          "Electrical Circuitry & Parts",
+          "Others"
+        ]
+      },
+      "images": [
+        "/produk/controller-sk200-10-yn22e00694f5-1.jpg",
+        "/produk/controller-sk200-10-yn22e00694f5-2.jpg",
+        "/produk/controller-sk200-10-yn22e00694f5-3.jpg"
+      ],
+      "variants": [],
+      "sold": 0,
+      "weightGram": 2000,
+      "dimensions": {
+        "length": 35,
+        "width": 35,
+        "height": 10
+      },
+      "shipDays": 30,
+      "remoteImages": [
+        "https://cf.shopee.co.id/file/id-11134207-7rbkb-m84mt8tbukhk7f",
+        "https://cf.shopee.co.id/file/id-11134207-7rbke-m84mt8t1uz2p28",
+        "https://cf.shopee.co.id/file/id-11134207-7rbk5-m84mt8tlu5fv88"
+      ]
+    },
+    {
+      "id": "51117518553",
+      "slug": "air-compressor-engine-assy-13026014",
+      "name": "Air Compressor Engine Assy 13026014",
+      "sku": "",
+      "description": "The part number 13026014 is a genuine Weichai air compressor used for diesel engines like the Deutz Weichai TD226B and WP6 series.\n- Product Details\nPart Name: Air Compressor\nPart Number / OE Number: 13026014 (also crosses with 226B-13026014, 4110000054115)\n- Compatible Engines: Weichai Deutz TD226B, WP4, WP6, and WP8 diesel engines\n- Application: Heavy-duty trucks, SDLG machinery, and industrial equipment\n- Material: Steel",
+      "excerpt": "The part number 13026014 is a genuine Weichai air compressor used for diesel engines like the Deutz Weichai TD226B and WP6 series. - Product Details Part Name: Air…",
+      "price": 7300000,
+      "priceMax": 7300000,
+      "hasPriceRange": false,
+      "stock": 6,
+      "inStock": true,
+      "category": {
+        "id": "101905",
+        "name": "Engine Parts",
+        "slug": "engine-parts",
+        "path": [
+          "Automobiles",
+          "Automobile Spare Parts",
+          "Engine Parts",
+          "Others"
+        ]
+      },
+      "images": [
+        "/produk/air-compressor-engine-assy-13026014-1.jpg",
+        "/produk/air-compressor-engine-assy-13026014-2.jpg",
+        "/produk/air-compressor-engine-assy-13026014-3.jpg",
+        "/produk/air-compressor-engine-assy-13026014-4.jpg",
+        "/produk/air-compressor-engine-assy-13026014-5.jpg",
+        "/produk/air-compressor-engine-assy-13026014-6.jpg",
+        "/produk/air-compressor-engine-assy-13026014-7.jpg",
+        "/produk/air-compressor-engine-assy-13026014-8.jpg"
+      ],
+      "variants": [],
+      "sold": 0,
+      "weightGram": 18000,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0
+      },
+      "shipDays": 2,
+      "remoteImages": [
+        "https://cf.shopee.co.id/file/id-11134207-81zti-mstcdmrrmm1664",
+        "https://cf.shopee.co.id/file/id-11134207-81ztc-mstcdmrrpf62cb",
+        "https://cf.shopee.co.id/file/id-11134207-81ztq-mstrjfg37bba9a",
+        "https://cf.shopee.co.id/file/id-11134207-81ztf-mstrjfg0l79d54",
+        "https://cf.shopee.co.id/file/id-11134207-81ztd-mstrjfg0o0e990",
+        "https://cf.shopee.co.id/file/id-11134207-81zti-mstrjfg0qtj546",
+        "https://cf.shopee.co.id/file/id-11134207-81ztk-mstrjfg0tmo19d",
+        "https://cf.shopee.co.id/file/id-11134207-81ztq-mstrjfg0wfsx42"
+      ]
+    },
+    {
+      "id": "50617531214",
+      "slug": "turbocharger-holset-hx50w",
+      "name": "TURBOCHARGER Holset HX50W",
+      "sku": "",
+      "description": "Kode VG1560118229 merujuk pada komponen Turbocharger (pengisi daya turbo) orisinal yang diproduksi untuk armada truk berat Sinotruk HOWO.\n\nKomponen ini dirancang secara spesifik untuk mesin diesel seri Weichai / WD615 (seperti tipe WD615.47 dan WD615.96), dan kerap diproduksi di bawah lisensi atau merek ternama seperti Holset dengan model referensi HX50W",
+      "excerpt": "Kode VG1560118229 merujuk pada komponen Turbocharger (pengisi daya turbo) orisinal yang diproduksi untuk armada truk berat Sinotruk HOWO. Komponen ini dirancang…",
+      "price": 5600000,
+      "priceMax": 5600000,
+      "hasPriceRange": false,
+      "stock": 11,
+      "inStock": true,
+      "category": {
+        "id": "101905",
+        "name": "Engine Parts",
+        "slug": "engine-parts",
+        "path": [
+          "Automobiles",
+          "Automobile Spare Parts",
+          "Engine Parts",
+          "Others"
+        ]
+      },
+      "images": [
+        "/produk/turbocharger-holset-hx50w-1.jpg",
+        "/produk/turbocharger-holset-hx50w-2.jpg",
+        "/produk/turbocharger-holset-hx50w-3.jpg",
+        "/produk/turbocharger-holset-hx50w-4.jpg",
+        "/produk/turbocharger-holset-hx50w-5.jpg",
+        "/produk/turbocharger-holset-hx50w-6.jpg",
+        "/produk/turbocharger-holset-hx50w-7.jpg"
+      ],
+      "variants": [],
+      "sold": 0,
+      "weightGram": 21000,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0
+      },
+      "shipDays": 2,
+      "remoteImages": [
+        "https://cf.shopee.co.id/file/id-11134207-81zte-mstxhcay35dt61",
+        "https://cf.shopee.co.id/file/id-11134207-81ztc-mstxhcay5yipb8",
+        "https://cf.shopee.co.id/file/id-11134207-81ztd-mstxhcay8rnld5",
+        "https://cf.shopee.co.id/file/id-11134207-81ztd-mstxhcaybksh57",
+        "https://cf.shopee.co.id/file/id-11134207-81ztj-mstxhcayedxd88",
+        "https://cf.shopee.co.id/file/id-11134207-81zti-mstxkoxs3wna96",
+        "https://cf.shopee.co.id/file/id-11134207-81zte-mstxkoxs9ix2e6"
+      ]
+    },
+    {
+      "id": "50417558155",
+      "slug": "turbo-charger-hongyan-hanvan-hx50w-612601110988-612601110954",
+      "name": "TURBO CHARGER HONGYAN HANVAN HX50W 612601110988 612601110954",
+      "sku": "",
+      "description": "TURBO CHARGER HONGYAN HANVAN HX50W 612601110988 612601110954\n\n612601110954 adalah nomor suku cadang resmi (OEM Part Number) untuk komponen Turbocharger / Turbo Charger Assembly WEICHAI® Genuine yang digunakan pada mesin truk berat Tiongkok.\n\nSpesifikasi Teknis Produk\n- Nama Komponen: Turbocharger / Turbo Charger Assy\n- Model Turbo: HX50W (Beberapa manufaktur menggunakan tipe centrifugal turbocharger).\n- Kecocokan Mesin: Khusus dikembangkan untuk lini mesin Weichai WP10 (terutama varian output daya sekitar 336 HP).\n\nUntuk detail produk dan sparepart lain silahkan chat kami.",
+      "excerpt": "TURBO CHARGER HONGYAN HANVAN HX50W 612601110988 612601110954 612601110954 adalah nomor suku cadang resmi (OEM Part Number) untuk komponen Turbocharger / Turbo…",
+      "price": 5600000,
+      "priceMax": 5600000,
+      "hasPriceRange": false,
+      "stock": 6,
+      "inStock": true,
+      "category": {
+        "id": "101905",
+        "name": "Engine Parts",
+        "slug": "engine-parts",
+        "path": [
+          "Automobiles",
+          "Automobile Spare Parts",
+          "Engine Parts",
+          "Others"
+        ]
+      },
+      "images": [
+        "/produk/turbo-charger-hongyan-hanvan-hx50w-612601110988-612601110954-1.jpg",
+        "/produk/turbo-charger-hongyan-hanvan-hx50w-612601110988-612601110954-2.jpg",
+        "/produk/turbo-charger-hongyan-hanvan-hx50w-612601110988-612601110954-3.jpg",
+        "/produk/turbo-charger-hongyan-hanvan-hx50w-612601110988-612601110954-4.jpg",
+        "/produk/turbo-charger-hongyan-hanvan-hx50w-612601110988-612601110954-5.jpg",
+        "/produk/turbo-charger-hongyan-hanvan-hx50w-612601110988-612601110954-6.jpg",
+        "/produk/turbo-charger-hongyan-hanvan-hx50w-612601110988-612601110954-7.jpg"
+      ],
+      "variants": [],
+      "sold": 0,
+      "weightGram": 20000,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0
+      },
+      "shipDays": 2,
+      "remoteImages": [
+        "https://cf.shopee.co.id/file/id-11134207-81ztl-msuw0xesfyfd6d",
+        "https://cf.shopee.co.id/file/id-11134207-81ztn-msuw1hfivyth84",
+        "https://cf.shopee.co.id/file/id-11134207-81zte-msuw0xesr6yxda",
+        "https://cf.shopee.co.id/file/id-11134207-81ztl-msuw1hfl2mmi97",
+        "https://cf.shopee.co.id/file/id-11134207-81zto-msuw0xespseh11",
+        "https://cf.shopee.co.id/file/id-11134207-81ztl-msuw1hfl18229b",
+        "https://cf.shopee.co.id/file/id-11134207-81ztf-msuw0xessljdf9"
+      ]
+    },
+    {
+      "id": "28895748718",
+      "slug": "komponen-pompa-udara-truk-china-sparepart-bandar-truk",
+      "name": "Komponen Pompa Udara Truk China Sparepart Bandar Truk",
+      "sku": "",
+      "description": "AIR COMPRESSOR ENGINE ASSY\n0177QB/612600130177\nutk detail barang silahkan chat",
+      "excerpt": "AIR COMPRESSOR ENGINE ASSY 0177QB/612600130177 utk detail barang silahkan chat",
+      "price": 3700000,
+      "priceMax": 3700000,
+      "hasPriceRange": false,
+      "stock": 3,
+      "inStock": true,
+      "category": {
+        "id": "101193",
+        "name": "Air Pumps, Parts & Accessories",
+        "slug": "air-pumps-parts-accessories",
+        "path": [
+          "Home & Living",
+          "Tools & Home Improvement",
+          "Air Pumps, Parts & Accessories"
+        ]
+      },
+      "images": [
+        "/produk/komponen-pompa-udara-truk-china-sparepart-bandar-truk-1.jpg",
+        "/produk/komponen-pompa-udara-truk-china-sparepart-bandar-truk-2.jpg",
+        "/produk/komponen-pompa-udara-truk-china-sparepart-bandar-truk-3.jpg"
+      ],
+      "variants": [],
+      "sold": 0,
+      "weightGram": 18000,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0
+      },
+      "shipDays": 2,
+      "remoteImages": [
+        "https://cf.shopee.co.id/file/id-11134207-81ztp-mstcdmrre6mi9b",
+        "https://cf.shopee.co.id/file/id-11134207-81ztj-mstcdmrrgzreee",
+        "https://cf.shopee.co.id/file/id-11134207-81ztq-mstcdmrrjswa60"
+      ]
+    },
+    {
+      "id": "25790281636",
+      "slug": "dekrup-sany-skt90-pressure-plate",
+      "name": "Dekrup Sany SKT90 Pressure Plate",
+      "sku": "",
+      "description": "Pressure Plate untuk Truk Sany SKT90.\nMatahari decrop SKT90.\nMohon tanyakan terlebih dahulu Untuk stok.",
+      "excerpt": "Pressure Plate untuk Truk Sany SKT90. Matahari decrop SKT90. Mohon tanyakan terlebih dahulu Untuk stok.",
+      "price": 2900000,
+      "priceMax": 2900000,
+      "hasPriceRange": false,
+      "stock": 5,
+      "inStock": true,
+      "category": {
+        "id": "101450",
+        "name": "Drivetrain, Transmission & Clutches",
+        "slug": "drivetrain-transmission-clutches",
+        "path": [
+          "Automobiles",
+          "Automobile Spare Parts",
+          "Drivetrain, Transmission & Clutches"
+        ]
+      },
+      "images": [
+        "/produk/dekrup-sany-skt90-pressure-plate-1.jpg"
+      ],
+      "variants": [],
+      "sold": 0,
+      "weightGram": 42000,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0
+      },
+      "shipDays": 2,
+      "remoteImages": [
+        "https://cf.shopee.co.id/file/id-11134207-7rasj-m4r87ydv61sm5a"
+      ]
+    },
+    {
+      "id": "12238436622",
+      "slug": "huawei-nova-2i-second-mulus",
+      "name": "Huawei Nova 2i Second mulus",
+      "sku": "",
+      "description": "Huawei Nova 2i\n\nResmi Indonesia\nRilis tahun 2017 Desember\nKami kasih Bonus 7 casing.\n\nBarang mulus 90% wajar.\nPemakaian sendiri dari baru.\nSelalu dipakaikan casing.\nLayar aman, jernih, selalu dikasih tempered glass.\nBattery baru. Sudah 3 tahun harus ganti baterai baru. Sekarang dipakai seharian aman. Cas jam 6 pagi. Jam 9 malam masih bertahan.\nPemakaian normal masih lancar jaya.\nBuat zoom meeting kamera jernih. Tidak ngelag. Karena Ram 4gb.\nMode Bokeh kamera masih bagus.\n\nSpesifikasi:\nDimensi : 156,2 x 75,2 x 7,5 mm\nBobot : 164 gram\nTipe Layar : IPS LCD\nUkuran layar : 5,9 inci\nAspek rasio : 18:9\nResolusi layar : 1080 x 2160 piksel\nSistem operasi : Android 8.0 (Oreo)\nChipset : Hisilicon Kirin 659\nCPU : Octa-core 2.3 GHz\nGPU : Mali-T830 MP2\nMemori Internal : 64GB\nRAM : 4GB\nSlot Micro SD : Hybrid (sampai 128GB)\nKamera Belakang : Dual, 16MP + 2MP\nKamera Depan : Dual, 13MP + 2MP\nBaterai : 3320 mAh",
+      "excerpt": "Huawei Nova 2i Resmi Indonesia Rilis tahun 2017 Desember Kami kasih Bonus 7 casing. Barang mulus 90% wajar. Pemakaian sendiri dari baru. Selalu dipakaikan casing.…",
+      "price": 1600000,
+      "priceMax": 1600000,
+      "hasPriceRange": false,
+      "stock": 1,
+      "inStock": true,
+      "category": {
+        "id": "100073",
+        "name": "Mobile Phones",
+        "slug": "mobile-phones",
+        "path": [
+          "Mobile & Gadgets",
+          "Mobile Phones"
+        ]
+      },
+      "images": [
+        "/produk/huawei-nova-2i-second-mulus-1.jpg",
+        "/produk/huawei-nova-2i-second-mulus-2.jpg",
+        "/produk/huawei-nova-2i-second-mulus-3.jpg",
+        "/produk/huawei-nova-2i-second-mulus-4.jpg",
+        "/produk/huawei-nova-2i-second-mulus-5.jpg",
+        "/produk/huawei-nova-2i-second-mulus-6.jpg"
+      ],
+      "variants": [],
+      "sold": 0,
+      "weightGram": 500,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0
+      },
+      "shipDays": 2,
+      "remoteImages": [
+        "https://cf.shopee.co.id/file/c762c508859e29bf121e03a136adf9f3",
+        "https://cf.shopee.co.id/file/3b7b4602d5c84d141a5baa1b0e106c97",
+        "https://cf.shopee.co.id/file/1ed95930b430088b2c71336c15c58594",
+        "https://cf.shopee.co.id/file/ddd8f601bf817964b49783a5d8dac1f1",
+        "https://cf.shopee.co.id/file/65b55f4b5a05194b273c74dd8f98c27c",
+        "https://cf.shopee.co.id/file/883fbd843a12fd2addd29ab9189778dd"
+      ]
+    },
+    {
+      "id": "24890267422",
+      "slug": "plat-kopling-skt90-disc-clutch-130602000001a",
+      "name": "Plat Kopling SKT90 Disc Clutch 130602000001A",
+      "sku": "",
+      "description": "Disc Clutch untuk Sany SKT90\nPN : 130602000001A\nSilakan hubungi kami terlebih dahulu sebelum memesan untuk kesediaan barang.08518301901",
+      "excerpt": "Disc Clutch untuk Sany SKT90 PN : 130602000001A Silakan hubungi kami terlebih dahulu sebelum memesan untuk kesediaan barang.08518301901",
+      "price": 1500000,
+      "priceMax": 1500000,
+      "hasPriceRange": false,
+      "stock": 3,
+      "inStock": true,
+      "category": {
+        "id": "101450",
+        "name": "Drivetrain, Transmission & Clutches",
+        "slug": "drivetrain-transmission-clutches",
+        "path": [
+          "Automobiles",
+          "Automobile Spare Parts",
+          "Drivetrain, Transmission & Clutches"
+        ]
+      },
+      "images": [
+        "/produk/plat-kopling-skt90-disc-clutch-130602000001a-1.jpg"
+      ],
+      "variants": [],
+      "sold": 0,
+      "weightGram": 10000,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0
+      },
+      "shipDays": 2,
+      "remoteImages": [
+        "https://cf.shopee.co.id/file/id-11134207-7rasj-m4r87ydv4n868b"
+      ]
+    },
+    {
+      "id": "53367532120",
+      "slug": "booster-clutch-dz9112230166",
+      "name": "Booster Clutch DZ9112230166",
+      "sku": "",
+      "description": "DZ9112230166 adalah nomor suku cadang resmi (OEM Part Number) untuk komponen Clutch Booster Assy (booster kopling atau silinder slave kopling) yang digunakan pada truk berat Shacman.\n\nKomponen ini berfungsi untuk meringankan injakan pedal kopling pada kendaraan komersial bermuatan besar. Berikut adalah detail spesifikasi dan kegunaan dari part tersebut:\nSpesifikasi & Detail Produk\nNama Komponen: Clutch Booster Assy / Clutch Slave Cylinder Assembly\nAplikasi Kendaraan: Truk Shacman (seri F3000, M3000, X3000) dan beberapa tipe kendaraan berat buatan Tiongkok lainnya seperti Shantui.\nJenis Sistem: Direct Acting Clutch CCU (Central Clutch Release Unit) tanpa katup tambahan",
+      "excerpt": "DZ9112230166 adalah nomor suku cadang resmi (OEM Part Number) untuk komponen Clutch Booster Assy (booster kopling atau silinder slave kopling) yang digunakan pada…",
+      "price": 950000,
+      "priceMax": 950000,
+      "hasPriceRange": false,
+      "stock": 67,
+      "inStock": true,
+      "category": {
+        "id": "101457",
+        "name": "Automobile Spare Parts",
+        "slug": "automobile-spare-parts",
+        "path": [
+          "Automobiles",
+          "Automobile Spare Parts",
+          "Others"
+        ]
+      },
+      "images": [
+        "/produk/booster-clutch-dz9112230166-1.jpg",
+        "/produk/booster-clutch-dz9112230166-2.jpg",
+        "/produk/booster-clutch-dz9112230166-3.jpg",
+        "/produk/booster-clutch-dz9112230166-4.jpg",
+        "/produk/booster-clutch-dz9112230166-5.jpg"
+      ],
+      "variants": [],
+      "sold": 0,
+      "weightGram": 3000,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0
+      },
+      "shipDays": 2,
+      "remoteImages": [
+        "https://cf.shopee.co.id/file/id-11134207-81zte-mstxkoxscc1y0b",
+        "https://cf.shopee.co.id/file/id-11134207-81ztm-mstxkoxsf56ub0",
+        "https://cf.shopee.co.id/file/id-11134207-81ztd-msu15ipq366g4e",
+        "https://cf.shopee.co.id/file/id-11134207-81ztl-msu15ipqd05kd7",
+        "https://cf.shopee.co.id/file/id-11134207-81ztd-msu15ipqftag67"
+      ]
+    },
+    {
+      "id": "51867532798",
+      "slug": "booster-clutch-shacnan-dz9112230181",
+      "name": "Booster Clutch Shacnan DZ9112230181",
+      "sku": "",
+      "description": "Deskripsi :\nDZ9112230181  merujuk pada komponen Clutch Booster Cylinder (atau Clutch Servo / Clutch Slave Cylinder) untuk armada truk berat Shacman.\n\nKomponen ini bekerja secara pneumatik-hidrolik terintegrasi untuk meringankan beban injakan pedal kopling pengemudi. Di pasar suku cadang, part ini sering kali dipasangkan atau dicari bersamaan dengan nomor part DZ9112230178 (yang merupakan variasi atau master cylinder pasangannya).\n\nSpesifikasi & Deskripsi Produk\n- Nama Komponen: Clutch Booster Cylinder Assembly / Clutch Servo\n- Material Utama: Baja / Besi Cor berkekuatan tinggi (Steel)\n- Cara Kerja: Terpasang di dekat girboks (gearbox). Ketika pedal kopling diinjak, tekanan dari silinder master disalurkan ke booster ini. Booster memanfaatkan tekanan udara dari tangki kompresor truk untuk mendorong garpu pembebas (release fork), sehingga pelat kopling terpisah sempurna dari flywheel untuk perpindahan gigi yang halus.\n- Aplikasi Truk: Sangat umum digunakan pada jajaran truk berat Shacman Delong seperti seri F2000, F3000, M3000, H3000, hingga X3000 (baik tipe tractor head, dump truck, maupun truk tambang). Selain itu, part ini juga kompatibel dengan beberapa model truk Tiongkok lain seperti Sinotruk HOWO dan Beiben.\n\nHarap tanyakan kembali untuk stok dan varian lain,",
+      "excerpt": "Deskripsi : DZ9112230181 merujuk pada komponen Clutch Booster Cylinder (atau Clutch Servo / Clutch Slave Cylinder) untuk armada truk berat Shacman. Komponen ini…",
+      "price": 950000,
+      "priceMax": 950000,
+      "hasPriceRange": false,
+      "stock": 20,
+      "inStock": true,
+      "category": {
+        "id": "101450",
+        "name": "Drivetrain, Transmission & Clutches",
+        "slug": "drivetrain-transmission-clutches",
+        "path": [
+          "Automobiles",
+          "Automobile Spare Parts",
+          "Drivetrain, Transmission & Clutches"
+        ]
+      },
+      "images": [
+        "/produk/booster-clutch-shacnan-dz9112230181-1.jpg",
+        "/produk/booster-clutch-shacnan-dz9112230181-2.jpg",
+        "/produk/booster-clutch-shacnan-dz9112230181-3.jpg",
+        "/produk/booster-clutch-shacnan-dz9112230181-4.jpg",
+        "/produk/booster-clutch-shacnan-dz9112230181-5.jpg"
+      ],
+      "variants": [],
+      "sold": 0,
+      "weightGram": 3500,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0
+      },
+      "shipDays": 2,
+      "remoteImages": [
+        "https://cf.shopee.co.id/file/id-11134207-81ztm-msu3uuakhr7raa",
+        "https://cf.shopee.co.id/file/id-11134207-81ztl-msu3uuakkkcn58",
+        "https://cf.shopee.co.id/file/id-11134207-81ztj-msu3uuakndhjde",
+        "https://cf.shopee.co.id/file/id-11134207-81zti-msu3uuakq6mfb4",
+        "https://cf.shopee.co.id/file/id-11134207-81ztc-msu3uuakszrbc3"
+      ]
+    }
+  ]
+}
